@@ -1,0 +1,4 @@
+Steps to run dot net core application
+1.	We need Visual studio 2019 to run our app
+2.	Go to ShopBridge => ProductAPI  folder and open ProductAPI.sln file in visual studio 2019.
+3.	Using swagger  for http calls
