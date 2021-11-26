@@ -1,0 +1,12 @@
+F:\ShopBridge\ProductModel\bin\Debug\net5.0\ProductModel.deps.json
+F:\ShopBridge\ProductModel\bin\Debug\net5.0\ProductModel.dll
+F:\ShopBridge\ProductModel\bin\Debug\net5.0\ref\ProductModel.dll
+F:\ShopBridge\ProductModel\bin\Debug\net5.0\ProductModel.pdb
+F:\ShopBridge\ProductModel\obj\Debug\net5.0\ProductModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\ShopBridge\ProductModel\obj\Debug\net5.0\ProductModel.AssemblyInfoInputs.cache
+F:\ShopBridge\ProductModel\obj\Debug\net5.0\ProductModel.AssemblyInfo.cs
+F:\ShopBridge\ProductModel\obj\Debug\net5.0\ProductModel.csproj.CoreCompileInputs.cache
+F:\ShopBridge\ProductModel\obj\Debug\net5.0\ProductModel.dll
+F:\ShopBridge\ProductModel\obj\Debug\net5.0\ref\ProductModel.dll
+F:\ShopBridge\ProductModel\obj\Debug\net5.0\ProductModel.pdb
+F:\ShopBridge\ProductModel\obj\Debug\net5.0\ProductModel.csprojAssemblyReference.cache
